@@ -1,8 +1,8 @@
 ### Hi there 👋, Rodrigo Cardoso Moreira
 #### I am Software Engineer
-![I am Software Engineer](https://raw.githubusercontent.com/rodrigocmoreira/rodrigocmoreira/master/resources/banner.png)
+![I am Software Engineer](https://github.com/rodrigocmoreira/rodrigocmoreira/blob/main/images/banner.png)
 
-Since 2004 delivering software: maintainable, testable and reliable. Experienced to work in agile teams using Scrum, XP, and Kanban. A test-driven development enthusiast and avid for refactoring and improving. 
+Since 2004 delivering software: maintainable, testable, and reliable. Experienced working in agile teams using Scrum, XP, and Kanban. A test-driven development enthusiast and avid for refactoring and improving. 
 
 Skills: TDD / .NET / C# / NODE.JS / JS / AZURE / AWS / REDIS / NOSQL 
 
