@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rodrigo Cardoso Moreira a software engineer
 ![](https://visitor-badge.laobi.icu/badge?page_id=rodrigocmoreira.rodrigocmoreira) [![Github](https://img.shields.io/github/followers/rodrigocmoreira?label=Followers&logo=Github)](https://github.com/rodrigocmoreira)
 
-Since 2004 delivering software: maintainable, testable, and reliable. Experienced working in agile teams using Scrum, XP, and Kanban. A test-driven development enthusiast and avid for refactoring and improving. 
+Since 2004 delivering software: maintainable, testable, and reliable. A test-driven development enthusiast and avid for refactoring and improving. 
 
 ## 🧰 Languages and Tools:
 <p align="center">
